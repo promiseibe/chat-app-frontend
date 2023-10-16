@@ -1,0 +1,8 @@
+.login_bg {
+    background-image: url("https://media.istockphoto.com/id/1494871521/vector/man-student-in-the-headphones-studying-with-laptop-and-listening-teacher.jpg?s=612x612&w=0&k=20&c=TC_tBFL6-sZ1huJVNqt1Rd2WQTkthgMo7CIZdLdxrzg=");
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}

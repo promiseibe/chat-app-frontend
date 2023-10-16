@@ -1,0 +1,16 @@
+
+.home_bg {
+    background-image: url("https://cdn.pixabay.com/photo/2020/06/29/13/58/video-conference-5352757_1280.png");
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.home-message-icon {
+    margin-left: 10px;
+    display: inline-block;
+
+}
+/* https://cdn.pixabay.com/photo/2016/06/09/10/00/smartphone-1445489_1280.jpg */
