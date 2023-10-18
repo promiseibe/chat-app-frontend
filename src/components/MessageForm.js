@@ -25,9 +25,7 @@ function MessageForm() {
 
         return month + "/" + day + "/" + year;
     }
- function handleSubmit(e) {
-        e.prevent.Default();
- }
+
 
  function scrollToBottom(){
     messageEndRef.current?.scrollIntoView({ behavior: "smooth"})
