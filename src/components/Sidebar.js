@@ -32,7 +32,7 @@ function Sidebar() {
 
 
     socket.off("notifications").on("notifications", (room) => {
-        if(currentRoom != room)  dispatch(addNotifications(room));
+        if(currentRoom !== room)  dispatch(addNotifications(room));
       })
 
     useEffect(() => {
